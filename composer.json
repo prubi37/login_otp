@@ -4,11 +4,7 @@
 "keywords": ["otp"],
 "homepage": "https://github.com/prubi37/login_otp",
 "license": "GNU",
-"authors": [
-{
-"name": "Login OTP",
-"role": "Developer"
-}
+
 
 {
     "require": {
@@ -16,4 +12,4 @@
     }
 
 }
-    }
+   
