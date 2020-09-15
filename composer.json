@@ -2,8 +2,5 @@
     "require": {
         "giggsey/libphonenumber-for-php": "^8.12"
     }
-    
-     "require": {
-        "https://github.com/prubi37/login_otp"
-    }
+
 }
