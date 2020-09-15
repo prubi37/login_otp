@@ -1,11 +1,3 @@
-{
-"name": "prubi37/login_otp",
-"type": "library",
-"description": "This is a plugin which works with sms gateway clickatell, to secure the login page with sms otp.",
-"keywords": ["otp"],
-"homepage": "https://github.com/prubi37/login_otp",
-"license": "GNU"
-}
 
 {
     "require": {
